@@ -1,16 +1,28 @@
-### Hi there 👋
+<h1>Hi, I'm Tosin! <br/><a href="https://github.com/engrgangi">Cloud and network security engineer</a>, <a href="https:/www.linkedin.com/in/
+tosin-anifowose-34b15749">Infrastructure engineer</a>, <a Devops engineer</a></h1>
 
-<!--
-**engrgangi/engrgangi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Network and Cloud Security</b>
+  - 
+- <b>Devops</b>
+  - 
+- <b>Infrastucture</b>
+  - [Active Directory Bulk User Creation]
+    
+  
+- <b>Network Automation</b>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- <b>Linux</b>
+ 
+
+<h2>📺 Certifications</h2>
+
+- AWS Certified Solutions Architect – Associate
+- Microsoft Certified: Azure Security Engineer Associate
+- Microsoft Specialist: Server Virtualization with Windows Server Hyper-V and System Centre
+- Information Technology Infrastructure Library (ITIL Foundation)
+- Certified Customer Service Representative (Help Desk International)
+- Certified in Cybersecurity (ISC) ²
+- Qualys Certified Specialist:  Vulnerability Management and PCI DSS Compliance
